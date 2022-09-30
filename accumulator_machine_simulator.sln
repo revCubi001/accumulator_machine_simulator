@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "accumulator_machine_simulator", "accumulator_machine_simulator.csproj", "{4236295C-BABB-4917-8480-9F6B48A57418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4236295C-BABB-4917-8480-9F6B48A57418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4236295C-BABB-4917-8480-9F6B48A57418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4236295C-BABB-4917-8480-9F6B48A57418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4236295C-BABB-4917-8480-9F6B48A57418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE6F4F3F-8D56-478B-8BC3-DE8E10880325}
+	EndGlobalSection
+EndGlobal
